@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rsimanjuntak1
-- 👀 I’m interested in Complex Dynamics and Discrete Differential Geometry
+- 👀 My main research is in Complex Dynamics
 - 🌱 I’m currently learning McMullen's embedding of hyperbolic components of Polynomials to space of invariant measures
-- 💞️ I’m looking to collaborate on Discrete Differential Geometry
+- 💞️ I’m looking to collaborate on Discrete Differential Geometry or Machine learning in general
 - 📫 How to reach me by email rsimanju@iu.edu
 
 <!---
